@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Vue CLI
+
+```sh
+npm install -g @vue/cli
+```
